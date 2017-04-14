@@ -10,3 +10,7 @@ uname -i
 uname -a
 :: for Debian based OS try this should fail in RHEL land
 lsb_release -a
+:: who am I ?
+id
+:: whats my current path
+pwd
